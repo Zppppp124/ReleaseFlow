@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+build/
+dist/
+dist-*/
+release-assets/
+*.log
+browser.py
+browser_main.py
+accelerator.py
+assets/*.png
+assets/*.ps
+*.part
+*.seg
